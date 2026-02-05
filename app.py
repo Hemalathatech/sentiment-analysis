@@ -14,7 +14,7 @@ sentiment_pipeline = load_model()
 # Page config
 st.set_page_config(page_title="Sentiment Analysis", layout="centered")
 
-st.title("📊 Sentiment Analysis (Dictionary Input)")
+st.title("📊 Sentiment Analysis")
 st.write("Enter text in **ID : Sentence** format")
 
 # Text input
